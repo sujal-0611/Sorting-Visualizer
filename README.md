@@ -1,5 +1,5 @@
 # Sorting-Visualizer
-sorting algorithms visualizer here are 
+Sorting Algorithms Used here are 
 1. Bubble sort
 2. Insertion Sort
 3. Selection Sort
